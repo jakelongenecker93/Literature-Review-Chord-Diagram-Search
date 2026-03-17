@@ -8,3 +8,4 @@ The Citation Export file can be created by copying directly from the html file, 
 
 --> To view the chord diagram use Firefox. Chromium (Chrome & Edge) do not play well.
 
+Cite as: Longenecker, J. (2026). Literature review chord network analysis tool. https://doi.org/
