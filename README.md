@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1184743803.svg)](https://doi.org/10.5281/zenodo.19078962)
+
 Create a Chord Diagram and Extract relevant sections from PDFs via a DOI cross-reference search.
 
 The python code bits are in the Create Chord folder, and the DOI Search & Extract folder.
