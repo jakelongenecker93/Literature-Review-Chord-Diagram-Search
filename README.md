@@ -12,4 +12,4 @@ The Citation Export file can be created by copying citations directly from the h
 
 <img width="3622" height="1772" alt="Diagram" src="https://github.com/user-attachments/assets/d56f6be6-3619-41b0-a491-d4827620ef22" />
 
-If this tool is used, please **Cite as**: Longenecker, J. (2026). Literature review chord network analysis tool. https://doi.org/
+If this tool is used, please **Cite as**: Longenecker, J. (2026). Literature review chord network analysis tool. https://doi.org/10.5281/zenodo.19078963
