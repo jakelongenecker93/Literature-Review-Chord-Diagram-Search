@@ -6,7 +6,7 @@ The python code bits are in the Create Chord folder, and the DOI Search & Extrac
 The required ancillary files are the TXT and CSV.
 
 The only thing missing are the PDFs. Simply gather your PDFs, then change the keywords and categories within the Create Chord python script to suit your needs.
-The Citation Export file can be created by copying citations directly from the html file as viewed within the webpage, so all you will neeed to do is modfiy the search words in the DOI Seach & Extract python script.
+The Citation Export file can be created by copying citations directly from the html file as viewed within the webpage, so all you will neeed to do is modfiy the search words in the DOI Search & Extract python script.
 
 --> A precomputed web file has been included so you can follow along.
     As well, there in a PNG of the diagram and associated snippet extraction.
